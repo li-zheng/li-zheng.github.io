@@ -6,10 +6,10 @@
 name: 冰雨溪
 
 # Short bio or description (displayed in the header)
-description: 快乐编码，快乐生活
+description: 快乐编码，快乐生活。
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/avatar.jpg
+avatar: https://github.com/li-zheng/li-zheng.github.io/blob/master/images/avatar.jpg
 
 #
 # Flags below are optional
@@ -36,7 +36,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-62251196-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
