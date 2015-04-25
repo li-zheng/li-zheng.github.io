@@ -42,6 +42,13 @@
       <div class="container">
         <footer class="footer">
           {% include svg-icons.html %}
+          <form action="https://shenghuo.alipay.com/send/payment/fill.htm" method="POST" target="_blank" accept-charset="GBK">
+            <input name="optEmail" type="hidden" value="windshadow1021@21cn.com" />
+            <input name="payAmount" type="hidden" value="10" />
+            <input id="title" name="title" type="hidden" value="付款说明" />
+            <input name="memo" type="hidden" value="备注" />
+            <input name="pay" type="image" value="转账" src="http://file.arefly.com/alipay.png" />
+   	      </form>
         </footer>
       </div>
     </div>
