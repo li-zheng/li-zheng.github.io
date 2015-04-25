@@ -1,20 +1,20 @@
----
+ï»¿---
 layout: post
-title: ÔõÃ´ÔÚJekyll×Ô¶¨Òå¸ü¶àµÄÉç½»Ã½ÌåµÄÍ¼±ê
+title: æ€Žä¹ˆåœ¨Jekyllè‡ªå®šä¹‰æ›´å¤šçš„ç¤¾äº¤åª’ä½“çš„å›¾æ ‡
 ---
 
-  ÔÚGithub¿ªÁË²©¿Í£¬¿´ÁËºÃ¶àµÄÖ÷Ìâ£¬¾ö¶¨»¹ÊÇ´Ó×îÇåË¬µÄJekyll Now¿ªÊ¼£¬ºóÃæ»áÂýÂýµÄ°ÑÄÚÈÝ·á¸»ÆðÀ´¡£
+  åœ¨Githubå¼€äº†åšå®¢ï¼Œçœ‹äº†å¥½å¤šçš„ä¸»é¢˜ï¼Œå†³å®šè¿˜æ˜¯ä»Žæœ€æ¸…çˆ½çš„Jekyll Nowå¼€å§‹ï¼ŒåŽé¢ä¼šæ…¢æ…¢çš„æŠŠå†…å®¹ä¸°å¯Œèµ·æ¥ã€‚
   
-  µÚÒ»´ÎÖ»ÊÇ×ö°ÑÐÂÀËÎ¢²©µÄÍ¼±êÁ´½Ó¼Óµ½½Å×¢À¸ÀïºÍ¼ÓÁËGoogle AnalyticsµÄ¶«Î÷£¬ÓÉÓÚGoogle AnalyticsÊÇÒÑ¾­Ö§³ÖµÄ£¬ÐèÒª×öµÄ½ö½öÊÇµ½GoogleµÄÍøÕ¾ÉÏÈ¥×¢²áÏàÓ¦µÄÒ»¸öÏîÄ¿£¬¾Í¿ÉÒÔ¼à¿Ø±¾ÍøÕ¾µÄ·ÃÎÊÁ÷Á¿ÁË¡£
+  ç¬¬ä¸€æ¬¡åªæ˜¯åšæŠŠæ–°æµªå¾®åšçš„å›¾æ ‡é“¾æŽ¥åŠ åˆ°è„šæ³¨æ é‡Œå’ŒåŠ äº†Google Analyticsçš„ä¸œè¥¿ï¼Œç”±äºŽGoogle Analyticsæ˜¯å·²ç»æ”¯æŒçš„ï¼Œéœ€è¦åšçš„ä»…ä»…æ˜¯åˆ°Googleçš„ç½‘ç«™ä¸ŠåŽ»æ³¨å†Œç›¸åº”çš„ä¸€ä¸ªé¡¹ç›®ï¼Œå°±å¯ä»¥ç›‘æŽ§æœ¬ç½‘ç«™çš„è®¿é—®æµé‡äº†ã€‚
 
-  ÏÂÃæÖ÷Òª¼ÇÂ¼Ò»ÏÂÔõÃ´Ìí¼ÓµÄÐÂÀËÎ¢²©µÄÍ¼±êÁ´½Ó£¬ÒòÎªÔÚGoogleÉÏÒ²Ã»ÓÐËÑË÷µ½ÏàÓ¦µÄÐÅÏ¢£¬»¹ÊÇÑÐ¾¿Ô´´úÂë¹ÜÓÃ£¬ÒÑ¾­³É¹¦µÄÍê³ÉÁË¡£ÆäËüµÄÉç½»ÍøÕ¾µÄÍ¼±êÒ²ÀàËÆ¡£
+  ä¸‹é¢ä¸»è¦è®°å½•ä¸€ä¸‹æ€Žä¹ˆæ·»åŠ çš„æ–°æµªå¾®åšçš„å›¾æ ‡é“¾æŽ¥ï¼Œå› ä¸ºåœ¨Googleä¸Šä¹Ÿæ²¡æœ‰æœç´¢åˆ°ç›¸åº”çš„ä¿¡æ¯ï¼Œè¿˜æ˜¯ç ”ç©¶æºä»£ç ç®¡ç”¨ï¼Œå·²ç»æˆåŠŸçš„å®Œæˆäº†ã€‚å…¶å®ƒçš„ç¤¾äº¤ç½‘ç«™çš„å›¾æ ‡ä¹Ÿç±»ä¼¼ã€‚
   
-  1. ×¼±¸Í¼±ê
+  1. å‡†å¤‡å›¾æ ‡
   ![weibo](/images/weibo.png)
-  Õâ¸öÍ¼±êÎÒÒÑ¾­ÐÞ¸ÄºÃÁË£¬×¢ÒâÍ¼±ê´óÐ¡Ò»¶¨ÊÇ40*40µÄ£¬·ñÕß»áºÜÄÑ¿´£¬×îºÃÊÇÖ§³ÖÍ¸Ã÷±³¾°µÄ£¬Òª²»Ò²²»ºÃ¿´¡£
+  è¿™ä¸ªå›¾æ ‡æˆ‘å·²ç»ä¿®æ”¹å¥½äº†ï¼Œæ³¨æ„å›¾æ ‡å¤§å°ä¸€å®šæ˜¯40*40çš„ï¼Œå¦è€…ä¼šå¾ˆéš¾çœ‹ï¼Œæœ€å¥½æ˜¯æ”¯æŒé€æ˜ŽèƒŒæ™¯çš„ï¼Œè¦ä¸ä¹Ÿä¸å¥½çœ‹ã€‚
   
-  2. Éú³ÉÍ¼±êµÄbase64µÄdata
-  ÕâÀïÁÐÁËÒ»Ð©¿ÉÒÔ×öÕâ¸öÊÂÇéµÄÍøÕ¾£º
+  2. ç”Ÿæˆå›¾æ ‡çš„base64çš„data
+  è¿™é‡Œåˆ—äº†ä¸€äº›å¯ä»¥åšè¿™ä¸ªäº‹æƒ…çš„ç½‘ç«™ï¼š
   
   [b64.io](http://b64.io/)
   
@@ -22,15 +22,14 @@ title: ÔõÃ´ÔÚJekyll×Ô¶¨Òå¸ü¶àµÄÉç½»Ã½ÌåµÄÍ¼±ê
   
   [duri.me](http://duri.me/)
   
-  3. ÐÞ¸Ä_sass/_svg-icons.scss ÎÄ¼þ
+  3. ä¿®æ”¹_sass/_svg-icons.scss æ–‡ä»¶
   
-  ÔÚ×îºó¼ÓÉÏ&ºÅ²¢°ÑÐÂµÄÍ¼Æ¬µÄbase64µÄÊý¾ÝÕ³Ìù¹ýÈ¥¾Í¿ÉÒÔÁË
+  åœ¨æœ€åŽåŠ ä¸Š&å·å¹¶æŠŠæ–°çš„å›¾ç‰‡çš„base64çš„æ•°æ®ç²˜è´´è¿‡åŽ»å°±å¯ä»¥äº†
   
-  4. ÐÞ¸Ä_config.yml ÎÄ¼þ
+  4. ä¿®æ”¹_config.yml æ–‡ä»¶
   
-  ÔÚfooter-linksÏÂÃæÌí¼ÓÒ»Ïî weibo£¬ÏàÓ¦µÄÖµÌîÉÏÄãÔÚÎ¢²©µÄ×ÓÓòÃû
+  åœ¨footer-linksä¸‹é¢æ·»åŠ ä¸€é¡¹ weiboï¼Œç›¸åº”çš„å€¼å¡«ä¸Šä½ åœ¨å¾®åšçš„å­åŸŸå
   
-  5. ÐÞ¸Ä_includes/svg-icons.html ÎÄ¼þ
+  5. ä¿®æ”¹_includes/svg-icons.html æ–‡ä»¶
   
-  ÔÚ×îºó¼ÓÉÏÒ»ÐÐ,ÀïÃæÏàÓ¦µÄ×Ö·û»»³Éweibo
- 
+  åœ¨æœ€åŽåŠ ä¸Šä¸€è¡Œ,é‡Œé¢ç›¸åº”çš„å­—ç¬¦æ¢æˆweibo
