@@ -2,14 +2,14 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+写代码若干年，读书若干年，出自微软，落地小米。
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+快乐工作，快乐生活，同时快乐的写代码，只有喜欢这项东西，才能做得更好。
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[windshadow102@live.com](mailto:windshadow1021@live.com)
