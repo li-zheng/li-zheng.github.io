@@ -1,9 +1,10 @@
-﻿---
+---
 layout: post
 title: 怎么在Jekyll自定义更多的社交媒体的图标
+published: true
 ---
 
-  在Github开了博客，看了好多的主题，决定还是从最清爽的Jekyll Now开始，后面会慢慢的把内容丰富起来。
+在Github开了博客，看了好多的主题，决定还是从最清爽的Jekyll Now开始，后面会慢慢的把内容丰富起来。
   
   第一次只是做把新浪微博的图标链接加到脚注栏里和加了Google Analytics的东西，由于Google Analytics是已经支持的，需要做的仅仅是到Google的网站上去注册相应的一个项目，就可以监控本网站的访问流量了。
 
