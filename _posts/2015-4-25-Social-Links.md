@@ -32,5 +32,5 @@ title: 怎么在Jekyll自定义更多的社交媒体的图标
   
   5. 修改_includes/svg-icons.html 文件
   
-  在最后加上一行{% if site.footer-links.weibo %}<a href="http://weibo.com/{{ site.footer-links.weibo }}"><i class="svg-icon weibo"></i></a>{% endif %}
+  在最后加上一行,里面相应的字符换成weibo
  
