@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 怎么在Jekyll自定义更多的社交媒体的图标
-categories: jekyll
-tags: [weibo, 微博, svg, icons]
+categories: 博客开发
+tags: [Jekyll]
 ---
 
 在Github开了博客，看了好多的主题，决定还是从最清爽的Jekyll Now开始，后面会慢慢的把内容丰富起来。
